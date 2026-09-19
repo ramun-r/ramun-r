@@ -1,6 +1,6 @@
-# Hi, I'm Ramun 👋
+# Welcome 👋
 
-I'm a developer focused on building graphics software and native applications. I enjoy exploring how software works close to the system and turning ideas into practical, interactive tools.
+My name is **Rothe Ramuntshi**, and I'm a developer focused on building graphics software and native applications. I enjoy exploring how software works close to the system and turning ideas into practical, interactive tools.
 
 ## Core focus
 
