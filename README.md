@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ramun 👋
 
-<!--
-**ramun-r/ramun-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on building graphics software and native applications. I enjoy exploring how software works close to the system and turning ideas into practical, interactive tools.
 
-Here are some ideas to get you started:
+## Core focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖼️ **Graphics programming** — creating visual software and exploring rendering, image processing, and interactive graphics.
+- ⚙️ **Native applications** — building performant desktop software with C++, OpenGL, and CMake.
+- 🧩 **Systems-oriented development** — learning through hands-on projects that connect software design with the underlying platform.
+
+## Featured project
+
+- [**imageV**](https://github.com/ramun-r/imageV) — an OpenGL image viewer built with a native C++/CMake workflow.
+
+## Currently learning
+
+I'm continuing to deepen my skills in graphics programming, native application development, C++, OpenGL, Linux, and writing software that is simple, useful, and maintainable.
+
+## Let's connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rotheramuntshi)
+
+Thanks for stopping by!
